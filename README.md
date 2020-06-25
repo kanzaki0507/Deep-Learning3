@@ -1,5 +1,5 @@
 # Deep Learning3で実装したプログラム
-<img src="https://images-na.ssl-images-amazon.com/images/I/91r62du6V1L.jpg" width=180>
+<img src="https://images-na.ssl-images-amazon.com/images/I/91r62du6V1L.jpg" width=200>
 
 # Background
 * Deep Learningの復習
